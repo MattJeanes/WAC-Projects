@@ -1,0 +1,5 @@
+@echo on
+cd "%sourcesdk%\bin\orangebox\bin\"
+studiomdl.exe -nop4 -game "E:\Programs\Steam\steamapps\matthewjeanes\garrysmod\garrysmod" %1
+pause
+explorer.exe "steam://rungameid/4000"

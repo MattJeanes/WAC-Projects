@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/hawx/fa22/desert_dot"
+	"$bumpmap" "models/hawx/fa22/FA-22_Raptor_N"
+	"$normalmapalphaenvmapmask" "1"        
+	"$phong" "1"
+	"$phongboost" "2.5"
+	"$halflambert" "1"
+	"$phongexponent" "100"
+	"$phongfresnelranges"	"[.1 .5 1.0]"
+}

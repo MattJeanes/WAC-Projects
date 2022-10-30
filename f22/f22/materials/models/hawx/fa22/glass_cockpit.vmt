@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/hawx/fa22/glass_cockpit"
+	"$envmapmask" "models/hawx/fa22/glass_cockpit_s"
+	"$translucent" "1"
+	"$phong" "1"
+	"$phongboost" "3.2"
+	"$halflambert" "1"
+	"$phongexponent" "100"
+	"$phongfresnelranges"	"[.1 .5 1.0]"
+}

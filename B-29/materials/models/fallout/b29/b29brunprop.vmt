@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/fallout/b29/b29brunprop"
+	"$nocull" "1"
+	"$halflambert" "1"
+	"$translucent" 1
+
+}
+
+
+
+
+

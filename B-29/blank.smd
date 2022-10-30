@@ -1,0 +1,10 @@
+version 1
+nodes
+  0 "Root" -1
+end
+skeleton
+time 0
+  0 0.002267 0.000000 0.004156 1.570796 -1.563704 -0.000017
+end
+triangles
+end

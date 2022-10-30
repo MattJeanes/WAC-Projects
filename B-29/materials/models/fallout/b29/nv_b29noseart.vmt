@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/fallout/b29/Noses/nv_b29_nose_enolagay"
+	"$bumpmap" "models/fallout/b29/Noses/nose_n"
+	"$nocull" "1"
+	"$halflambert" "1"
+	"$alphatest" 1
+}
+
+
+
+
+

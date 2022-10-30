@@ -1,0 +1,11 @@
+{
+	"title"		:	"WAC HAWX F22 Raptor (Unoffical)",
+	"type"		:	"vehicle",
+	"tags"		:	[ "realism", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
